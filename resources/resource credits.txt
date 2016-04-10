@@ -1,6 +1,6 @@
 wall.jpg: http://opengameart.org/node/9977
 player.png: http://opengameart.org/content/animated-top-down-survivor-player
 floor.png: http://opengameart.org/node/10927
-
+key.png: http://opengameart.org/content/the-secret-key
 
 All files available under Creative Commons license http://creativecommons.org/licenses/by/3.0/
