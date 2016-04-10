@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/sounds"/>
+    <qresource prefix="/images"/>
+    <qresource prefix="/maps">
+        <file>mazetest.txt</file>
+    </qresource>
+</RCC>
